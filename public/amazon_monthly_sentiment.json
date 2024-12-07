@@ -1,0 +1,175 @@
+{
+  "company": "Amazon",
+  "timestamp": "2024-12-06T00:01:24.739237",
+  "sentiment_model": "distilbert-base-uncased-finetuned-sst-2-english",
+  "monthly_sentiment": {
+    "2017-11": {
+      "positive": 27086,
+      "neutral": 2139,
+      "negative": 123418,
+      "average_score": -0.6195361197772236
+    },
+    "2017-10": {
+      "positive": 29084,
+      "neutral": 2140,
+      "negative": 118852,
+      "average_score": -0.5882636072286529
+    },
+    "2017-12": {
+      "positive": 3466,
+      "neutral": 266,
+      "negative": 15922,
+      "average_score": -0.6231271427166818
+    },
+    "2017-09": {
+      "positive": 281,
+      "neutral": 22,
+      "negative": 983,
+      "average_score": -0.5377359870433066
+    },
+    "2017-02": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 37,
+      "average_score": -0.9300034971613633
+    },
+    "2017-06": {
+      "positive": 18,
+      "neutral": 3,
+      "negative": 104,
+      "average_score": -0.6762086963653564
+    },
+    "2015-07": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 4,
+      "average_score": -0.6009555697441101
+    },
+    "2017-07": {
+      "positive": 22,
+      "neutral": 1,
+      "negative": 106,
+      "average_score": -0.6459118063135665
+    },
+    "2017-04": {
+      "positive": 7,
+      "neutral": 0,
+      "negative": 53,
+      "average_score": -0.7548917829990387
+    },
+    "2017-03": {
+      "positive": 3,
+      "neutral": 2,
+      "negative": 35,
+      "average_score": -0.7855913832783699
+    },
+    "2017-08": {
+      "positive": 39,
+      "neutral": 2,
+      "negative": 160,
+      "average_score": -0.5995810547871376
+    },
+    "2016-11": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 43,
+      "average_score": -0.9378011741421439
+    },
+    "2017-05": {
+      "positive": 12,
+      "neutral": 1,
+      "negative": 67,
+      "average_score": -0.6773730121552944
+    },
+    "2016-12": {
+      "positive": 3,
+      "neutral": 0,
+      "negative": 34,
+      "average_score": -0.8207655967892827
+    },
+    "2016-05": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 7,
+      "average_score": -0.7413114607334137
+    },
+    "2015-06": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 9,
+      "average_score": -0.9843875898255242
+    },
+    "2016-08": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 15,
+      "average_score": -0.9852471947669983
+    },
+    "2016-09": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 29,
+      "average_score": -0.9868092475266292
+    },
+    "2016-10": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 37,
+      "average_score": -0.9340869862782327
+    },
+    "2017-01": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 48,
+      "average_score": -0.9468642765161942
+    },
+    "2016-04": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1,
+      "average_score": -0.99964439868927
+    },
+    "2015-12": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2,
+      "average_score": -0.9715763628482819
+    },
+    "2015-05": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2,
+      "average_score": -0.9804217517375946
+    },
+    "2016-03": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 3,
+      "average_score": 0.1455433283533369
+    },
+    "2015-02": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1,
+      "average_score": -0.9965952038764954
+    },
+    "2016-06": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 4,
+      "average_score": -0.600035035610199
+    },
+    "2016-01": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2,
+      "average_score": -0.9992477297782898
+    },
+    "2014-02": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1,
+      "average_score": -0.9957966804504395
+    }
+  }
+}
